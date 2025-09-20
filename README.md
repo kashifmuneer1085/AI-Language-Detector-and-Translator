@@ -43,7 +43,7 @@ Here is the complete demosntration and explanation of the complete project.
 
 https://github.com/mehmoodulhaq570/AI-Language-Detector-and-Translator/assets/96229333/128d68d9-1ae0-4b22-bd7d-056235406f27
 
-For any queries you can contact me at my email mehmoodulhaq1040@gmail.com
+For any queries you can contact me at kashifmuneer1085@gmail.com
 
 ## Acknowledgments
 We acknowledge the contributions of various open-source projects and datasets that facilitated the development of this project. Additionally, we extend our gratitude to the Python community for creating and maintaining a robust ecosystem of libraries and tools.
